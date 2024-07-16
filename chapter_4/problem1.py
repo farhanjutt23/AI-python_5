@@ -1,0 +1,11 @@
+name=[]
+f1=input("Enter the fruits name")
+name.append(f1)
+f2=input("Enter the fruits name")
+name.append(f2)
+f3=input("Enter the fruits name")
+name.append(f3)
+f4=input("Enter the fruits name")
+name.append(f4)
+f5=input("Enter the fruits name")
+name.append(f5)
